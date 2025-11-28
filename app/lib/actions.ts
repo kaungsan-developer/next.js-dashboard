@@ -90,6 +90,7 @@ export async function updateInvoice(id: string, formData: FormData) {
   `;
   } catch (error) {
     console.error(error);
+    return;
   }
 
   revalidatePath("/dashboard/invoices");
