@@ -59,9 +59,9 @@ AUTH_SECRET=
    pnpm dev
 ```
 
-6. Seed Initial Data
+5. Seed Initial Data
    
-- Navigate to localhost:(Your Port)/seed
+- Navigate to ```localhost:(Your Port)/seed```
 
 ## Screenshots
 
